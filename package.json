@@ -1,0 +1,26 @@
+{
+    "name": "crystalline",
+    "displayName": "Crystalline",
+    "publisher": "Batman",
+    "description": "Cool",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/FluffyPanda602/Crystalline"
+    },
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cool One dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cool One dark-color-theme.json"
+            }
+        ]
+    }
+}
